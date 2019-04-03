@@ -40,8 +40,4 @@ Here is a visual comparison between an `ESS Level 1 XML` container and `ESS Leve
 
 --------------------------------------------------------------------------------
 
-Qascade development is supported by The Cognition and Neuroergonomics Collaborative Technology Alliance [(CaN CTA)](http://cancta.net) program of U.S Army Research Labaratory.
-
-<div width="100%" align="center" style="float:center">
-  <em>Copyright © 2016-2017 <a href="https://intheon.io">Syntrogi Inc dba Intheon</a></em>
-</div>
+Until Oct. 2018 Qascade development was supported by The Cognition and Neuroergonomics Collaborative Technology Alliance [(CaN CTA)](http://cancta.net) program of U.S Army Research Labaratory.
