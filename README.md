@@ -4,7 +4,7 @@
 
 `Qascade` is a user-friendly way to assign meta-data to your data files. Such meta-data can then be used in your data processing scripts, for example to select data files based on a particular key value (e.g. age > 18). Meta-data can also enable data sharing. In developing `Qascade` the emphasis has been put on simplicity, user experience and [The Rule of Least Power](https://en.wikipedia.org/wiki/Rule_of_least_power). Using `Qascade` for meta-data assignment (compared to using `XML` or `JSON`) is similar to using `Markdown` (instead of `HTML`) for writing notes and Readme files. 
 
-`Qascade` is developed by [Intheon](https://intheon.io). change
+**Note:** I started working on `Qascade` at Intheon. I left the company in 2018 and will continue the development in this fork.
 
 The main idea behind the `Qascade` is simple: at each level of a file hierarchy, a special `manifest.qsc.yaml` file (containing `YAML`-formatted text) is placed which contains `(key:value)` pairs that are assigned to all files in the folder and its subfolders. Manifest files in subfolders overwrite keys assigned in parent directories:
 
