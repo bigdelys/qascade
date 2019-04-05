@@ -29,7 +29,7 @@ This work is based on the original Qascade code under the following license:
 
 The MIT License (MIT)
 
-Copyright (c) 2017-2018 Syntrogi (dba Intheon), Inc.
+Copyright (c) 2017 Syntrogi (dba Intheon), Inc.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
